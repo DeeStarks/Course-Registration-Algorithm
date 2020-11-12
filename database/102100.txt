@@ -1,0 +1,3 @@
+John Doe
+12345
+{'Computer Science': '- Operating System,- Microprocessor,- Computer Software,- Cryptography and Network Security,- Database Management System', 'Mechanical Engineering': '- Aerodynamics and Fluid Mechanics,- Biomechanics,- Combustion and Energy Sytems,- Materials and Structures,- Dynamics and Control', 'Criminology': '- Antiquities Trafficking,- Art Theft,- Child Abduction,- Child Abuse,- Murder'}
